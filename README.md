@@ -6,3 +6,7 @@ The persisted batch sales data is stored in the AWS S3 Bucket and ingested into 
 
 Tools & Technologies: 
 Python, Boto3, AWS CLI, AWS S3, AWS EMR, Apache Hive, Tableau Dashboard
+
+Project Architecture:
+
+![](architecture/project_architecture.jpg)
